@@ -1,0 +1,31 @@
+{
+    "application": {
+      "name": "MonApplication",
+      "version": "1.0.0",
+      "environment": "development",
+      "logging": {
+        "level": "debug",
+        "file": "logs/monapplication.log"
+      }
+    },
+    "database": {
+      "host": "localhost",
+      "port": 3306,
+      "user": "utilisateur",
+      "password": "motdepasse",
+      "name": "ma_base_de_donnees"
+    },
+    "scheduled_tasks": [
+      {
+        "name": "backup",
+        "frequency": "daily",
+        "last_executed": "2023-01-01T00:00:00"
+      },
+      {
+        "name": "cleanup",
+        "frequency": "weekly",
+        "last_executed": "2023-01-01T00:00:00"
+      }
+    ]
+  }
+  

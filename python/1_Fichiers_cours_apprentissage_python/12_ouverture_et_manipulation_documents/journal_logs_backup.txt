@@ -1,0 +1,11 @@
+2023-01-01 00:01:23 INFO Demarrage du serveur.
+2023-01-01 00:02:15 WARNING Connexion lente detectee.
+2023-01-01 00:03:47 ERROR Echec de connexion a la base de donnees.
+2023-01-01 00:04:22 INFO Nouvelle connexion utilisateur: utilisateur123.
+2023-01-01 00:05:33 ERROR Impossible d'envoyer l'email de notification.
+2023-01-01 00:06:45 WARNING Temps de reponse superieur à 500ms.
+2023-01-01 00:07:52 INFO Demande de page /accueil par utilisateur456.
+2023-01-01 00:08:13 ERROR Le fichier config.txt est manquant.
+2023-01-01 00:09:27 INFO Deconnexion utilisateur: utilisateur123.
+2023-01-01 00:10:31 WARNING Memoire disponible inferieure a 10%.
+2023-01-01 00:11:42 ERROR Acces refuse pour utilisateur789.
