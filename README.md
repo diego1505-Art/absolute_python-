@@ -4,16 +4,8 @@ Bienvenue dans mon dépôt **absolute_python-** !
 
 Ce projet regroupe mes exercices, cours, tests et différents projets réalisés lors de mon apprentissage de **Python**.
 
-##  Contenu du projet
-
-Le dépôt contient notamment :
-
-*  Des fichiers Python (`.py`)
-*  Des notebooks Jupyter (`.ipynb`)
-*  Des fichiers PDF
-*  Des fichiers CSV
-*  Des fichiers de configuration (`.json`)
-*  Des fichiers de logs (`.txt`)
+ici vous avez un bon site https://openclassrooms.com/fr/courses/
+de debutant a intermediare vous évoluerai 
 
 ###  Cours Python
 
@@ -47,14 +39,6 @@ L'objectif de ce dépôt est de suivre ma progression dans l'apprentissage de **
 * **Python**
 * **Jupyter Notebook**
 * **Git**
-* **GitHub**
-ici vous avez un bon site https://openclassrooms.com/fr/courses/ 
+* **GitHub** 
 ##  Progression
 
-Ce dépôt évoluera au fur et à mesure de mon apprentissage.
-
-De nouveaux exercices, projets et expérimentations seront ajoutés progressivement.
-
----
-
- **Projet personnel d'apprentissage de Python**
